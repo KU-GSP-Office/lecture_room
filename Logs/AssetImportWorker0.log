@@ -177,3 +177,51 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 5951.650644 seconds.
+  path: Assets/ClusterVR/StaticResources
+  artifactKey: Guid(8cf200a7ec910485f8a9c1aea9f2da18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterVR/StaticResources using Guid(8cf200a7ec910485f8a9c1aea9f2da18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08569ca700743be5ff1f1100180775c0') in 0.031111 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.909537 seconds.
+  path: Assets/ClusterVR/StaticResources/Prefabs
+  artifactKey: Guid(a05d83f8117f94b2bbe8cc706f2e5093) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterVR/StaticResources/Prefabs using Guid(a05d83f8117f94b2bbe8cc706f2e5093) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '927928811f434a5462a287dd019e384c') in 0.000763 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.055121 seconds.
+  path: Assets/ClusterVR/StaticResources/Prefabs/DespawnHeight.prefab
+  artifactKey: Guid(7d071927c08ddb64ab3a3959ffa1281b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterVR/StaticResources/Prefabs/DespawnHeight.prefab using Guid(7d071927c08ddb64ab3a3959ffa1281b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14fdb99c8207a30fae244cea1eb25e11') in 0.803735 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 100.689503 seconds.
+  path: Assets/ClusterVR/StaticResources/Prefabs/StandardCommentScreen.prefab
+  artifactKey: Guid(d08673899800f954d872ca391d26b4b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterVR/StaticResources/Prefabs/StandardCommentScreen.prefab using Guid(d08673899800f954d872ca391d26b4b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8963f8482de536a84b3d5759e70a3196') in 0.032361 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 105.104476 seconds.
+  path: Assets/ClusterVR/StaticResources/Prefabs/StandardMainScreen 1.prefab
+  artifactKey: Guid(9e0050e78204c4614b5975eeb031c6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterVR/StaticResources/Prefabs/StandardMainScreen 1.prefab using Guid(9e0050e78204c4614b5975eeb031c6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a536ed83d94bbaaec6e7dcb8fb0c3996') in 0.077125 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3342.350790 seconds.
+  path: Packages/mu.cluster.cluster-creator-kit/package.json
+  artifactKey: Guid(6f11c0d5c326e4a6c851aa1c02ff11ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/mu.cluster.cluster-creator-kit/package.json using Guid(6f11c0d5c326e4a6c851aa1c02ff11ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96256431ac91dfb8aaf7119016f534a1') in 0.241937 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 44.384822 seconds.
+  path: Packages/mu.cluster.cluster-creator-kit/Editor/ClusterVR.CreatorKit.Editor.asmdef
+  artifactKey: Guid(20189837e39554ff8b3d7bf78e895e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/mu.cluster.cluster-creator-kit/Editor/ClusterVR.CreatorKit.Editor.asmdef using Guid(20189837e39554ff8b3d7bf78e895e3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '231fdb642c03087e8c8a22a7a39a375d') in 0.037469 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.327549 seconds.
+  path: Packages/com.unity.testtools.codecoverage/package.json
+  artifactKey: Guid(ba7d60725b0ec604698819352642be89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.testtools.codecoverage/package.json using Guid(ba7d60725b0ec604698819352642be89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd2dd2fcfb070eff30dd06220f902a2a') in 0.001307 seconds 

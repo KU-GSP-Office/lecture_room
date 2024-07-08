@@ -183,3 +183,21 @@ Received Import Request.
   path: Assets/ClusterTutorial/BeginnerSample.unity
   artifactKey: Guid(c16eb07edaab5594685ef07775a44c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/ClusterTutorial/BeginnerSample.unity using Guid(c16eb07edaab5594685ef07775a44c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd566989ebebb10a20276facc86cefdf7') in 0.004629 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3124.656408 seconds.
+  path: Assets/ClusterVR/StaticResources/Prefabs/SpawnPointEntrance.prefab
+  artifactKey: Guid(8aad3465d2c6df7418cbced5b4ac4a81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterVR/StaticResources/Prefabs/SpawnPointEntrance.prefab using Guid(8aad3465d2c6df7418cbced5b4ac4a81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0866708c8b179efa715be8349d04891') in 0.782186 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 100.692977 seconds.
+  path: Assets/ClusterVR/StaticResources/Prefabs/StandardCommentScreenCell.prefab
+  artifactKey: Guid(372932e1163a9f24281c3f469dc32a77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterVR/StaticResources/Prefabs/StandardCommentScreenCell.prefab using Guid(372932e1163a9f24281c3f469dc32a77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16d6c34ec42d9f1d42774afc3b9ed1c8') in 0.032156 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/ClusterVR/StaticResources/Prefabs/StandardMainScreen.prefab
+  artifactKey: Guid(99c8c3ee952221949af9221e736930fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterVR/StaticResources/Prefabs/StandardMainScreen.prefab using Guid(99c8c3ee952221949af9221e736930fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb097bd75fdfc95f32700dd2d29cc77d') in 0.074090 seconds 
