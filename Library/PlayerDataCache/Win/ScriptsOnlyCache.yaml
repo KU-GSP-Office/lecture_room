@@ -2,6 +2,9 @@ ScriptsOnlyBuild:
   usedScripts:
     ClusterVR.CreatorKit.Editor.dll:
     - ClusterVR.CreatorKit.Editor.Window.View.VenueUploadWindow
+    ClusterVR.CreatorKit.Item.Implements.dll:
+    - ClusterVR.CreatorKit.Item.Implements.Item
+    - ClusterVR.CreatorKit.Item.Implements.RidableItem
     ClusterVR.CreatorKit.Preview.dll:
     - ClusterVR.CreatorKit.Preview.Common.CoroutineGenerator
     - ClusterVR.CreatorKit.Preview.Common.TickGenerator
@@ -15,7 +18,9 @@ ScriptsOnlyBuild:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
     - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
-  serializedClasses: {}
+  serializedClasses:
+    ClusterVR.CreatorKit.Item:
+    - ClusterVR.CreatorKit.Item.ItemId
   methodsToPreserve: []
   sceneClasses:
     Assets/venue_370a7a83fb8ecc7646bcdf467a.unity:
@@ -48,7 +53,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3004}
     - Class: 114
+      Script: {instanceID: 4254}
+    - Class: 114
       Script: {instanceID: 4522}
+    - Class: 114
+      Script: {instanceID: 6652}
     - Class: 114
       Script: {instanceID: 9056}
     - Class: 115
@@ -72,10 +81,22 @@ ScriptsOnlyBuild:
     className: SpawnPoint
   - hash:
       serializedVersion: 2
+      Hash: 0f8a7a49cb1008b34873dca1cb160dd8
+    assemblyName: ClusterVR.CreatorKit.Item.Implements.dll
+    namespaceName: ClusterVR.CreatorKit.Item.Implements
+    className: Item
+  - hash:
+      serializedVersion: 2
       Hash: 49be8f2ddceb2c99faa440c7f8f4aa39
     assemblyName: ClusterVR.CreatorKit.World.Implements.dll
     namespaceName: ClusterVR.CreatorKit.World.Implements.MainScreenViews
     className: StandardMainScreenView
+  - hash:
+      serializedVersion: 2
+      Hash: 75dd77d3eaf67a85b31ce41fca5ed55a
+    assemblyName: ClusterVR.CreatorKit.Item.Implements.dll
+    namespaceName: ClusterVR.CreatorKit.Item.Implements
+    className: RidableItem
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
