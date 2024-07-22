@@ -237,3 +237,603 @@ Received Import Request.
   path: Assets/Stylized Wood Textures/Materials/Planks/Planks 1.mat
   artifactKey: Guid(7a633af49404a47a6a0fb4f7dbf27b23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Stylized Wood Textures/Materials/Planks/Planks 1.mat using Guid(7a633af49404a47a6a0fb4f7dbf27b23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e5b869363f3d50f4932cc9ace0ec65e') in 0.267915 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 418.987468 seconds.
+  path: Assets/Stylized Wood Textures/Materials/Square
+  artifactKey: Guid(a75ad70d2f7855645b65b1c546b539fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Wood Textures/Materials/Square using Guid(a75ad70d2f7855645b65b1c546b539fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcacd6b47d439e042780a9754c9e6875') in 0.001698 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.023404 seconds.
+  path: Assets/Stylized Wood Textures/Materials/Square/Square.mat
+  artifactKey: Guid(4ddb30289dc6d6a47a05448ca7275e5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Wood Textures/Materials/Square/Square.mat using Guid(4ddb30289dc6d6a47a05448ca7275e5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '706f7529a4fc76f6097c5151769765ac') in 0.043063 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.729669 seconds.
+  path: Assets/Stylized Wood Textures/Materials/Triangle
+  artifactKey: Guid(df917eae16e1f62458b5ccf44dc8d329) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Wood Textures/Materials/Triangle using Guid(df917eae16e1f62458b5ccf44dc8d329) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f86b2b0acd51d078a529bcba895f0ae') in 0.000743 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.036599 seconds.
+  path: Assets/Stylized Wood Textures/Materials/Triangle/Triangle.mat
+  artifactKey: Guid(5e85b5e82c1a1a84186c3baf89e174c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Wood Textures/Materials/Triangle/Triangle.mat using Guid(5e85b5e82c1a1a84186c3baf89e174c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1f3c914264cdfb9d26a79b041947ce2') in 0.013505 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 811.830841 seconds.
+  path: Assets/ADI/Voxel Office Props/Prefabs/desk2.prefab
+  artifactKey: Guid(e8b9880a656da594ca6814ff9177bc1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ADI/Voxel Office Props/Prefabs/desk2.prefab using Guid(e8b9880a656da594ca6814ff9177bc1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e749dd89b9495467d832b382df40249e') in 0.602877 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.832923 seconds.
+  path: Assets/ADI/Voxel Office Props/Models/bin.obj
+  artifactKey: Guid(4bb64f27720ad814a97a28c340092cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ADI/Voxel Office Props/Models/bin.obj using Guid(4bb64f27720ad814a97a28c340092cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac0eeb24986410e298da06bd5580d724') in 1.113558 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001728 seconds.
+  path: Assets/ADI/Voxel Office Props/Models/lamp.obj
+  artifactKey: Guid(7102cd2f50455c6459f5f9e7994db327) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ADI/Voxel Office Props/Models/lamp.obj using Guid(7102cd2f50455c6459f5f9e7994db327) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f41c66a8d60e0ff6b88e615c3da2240') in 0.009940 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/ADI/Voxel Office Props/Models/keypad.obj
+  artifactKey: Guid(8d7d41194e14da84182b2170f5d75ea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ADI/Voxel Office Props/Models/keypad.obj using Guid(8d7d41194e14da84182b2170f5d75ea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db6cffccf1d7a96fcfdf4fb420d052c8') in 0.009057 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/ADI/Voxel Office Props/Models/keyboard.obj
+  artifactKey: Guid(4c6f6c569f9f6cd4aa36702def42c80c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ADI/Voxel Office Props/Models/keyboard.obj using Guid(4c6f6c569f9f6cd4aa36702def42c80c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a57f91d76e266905baf2ca7e514a71d3') in 0.013908 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/ADI/Voxel Office Props/Models/waterCooler.obj
+  artifactKey: Guid(f3f538069160ced4faacf632ffd03a5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ADI/Voxel Office Props/Models/waterCooler.obj using Guid(f3f538069160ced4faacf632ffd03a5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47f49756b2ad58fc9d2af761dbd14431') in 0.009755 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/ADI/Voxel Office Props/Models/fillingCabinetDrawDocs.obj
+  artifactKey: Guid(950f8264316af2649a6a87601ee42391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ADI/Voxel Office Props/Models/fillingCabinetDrawDocs.obj using Guid(950f8264316af2649a6a87601ee42391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e76bd5c8e1ecdc72aea73491b0b55ff6') in 0.020920 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/ADI/Voxel Office Props/Models/documents.obj
+  artifactKey: Guid(7d0a8867ee1f5ef4cb7686c682dbf563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ADI/Voxel Office Props/Models/documents.obj using Guid(7d0a8867ee1f5ef4cb7686c682dbf563) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a532eb9f9df8a61774aa60e007a8f46b') in 0.014542 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/ADI/Voxel Office Props/Models/pc.obj
+  artifactKey: Guid(6c57c3bd7c5d3cb44976f1e68ce0edb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ADI/Voxel Office Props/Models/pc.obj using Guid(6c57c3bd7c5d3cb44976f1e68ce0edb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f39e332faabf5348d6085d4cc9e847c') in 0.009165 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/ADI/Voxel Office Props/Models/smartPhoneLocked.obj
+  artifactKey: Guid(46b0eb3a5b4c99643835297c7f5905e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ADI/Voxel Office Props/Models/smartPhoneLocked.obj using Guid(46b0eb3a5b4c99643835297c7f5905e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a83e7493fb2016644de640ba5e325709') in 0.010087 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/ADI/Voxel Office Props/Models/printer2.obj
+  artifactKey: Guid(d2a726cb03d910545b2e5c9705ce8ab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ADI/Voxel Office Props/Models/printer2.obj using Guid(d2a726cb03d910545b2e5c9705ce8ab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f73d8fc969fa8e01d7852a06c17e241') in 0.009354 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/ADI/Voxel Office Props/Models/fillingCabinet.obj
+  artifactKey: Guid(7f06d55500b26d6429981dce62517c9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ADI/Voxel Office Props/Models/fillingCabinet.obj using Guid(7f06d55500b26d6429981dce62517c9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73fbbe38911d8ef907b41863dc568711') in 0.012091 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/ADI/Voxel Office Props/Models/documentTray.obj
+  artifactKey: Guid(9a8ca49c0baad9b4fa282bfde777ddea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ADI/Voxel Office Props/Models/documentTray.obj using Guid(9a8ca49c0baad9b4fa282bfde777ddea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2345757f3e042d631a55c2afefd8ba23') in 0.012747 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/ADI/Voxel Office Props/Models/tableCentreLit.obj
+  artifactKey: Guid(4cb1cf98bf61b04479d2a8fd58d3129c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ADI/Voxel Office Props/Models/tableCentreLit.obj using Guid(4cb1cf98bf61b04479d2a8fd58d3129c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f04d50938980858e96ed85bde558f384') in 0.013490 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/ADI/Voxel Office Props/Models/chairBack2.obj
+  artifactKey: Guid(acb4744b07591f848b9849dc9654d7a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ADI/Voxel Office Props/Models/chairBack2.obj using Guid(acb4744b07591f848b9849dc9654d7a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f759df5c2d219f00b544831ddcc3f14d') in 0.019083 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/ADI/Voxel Office Props/Models/tableCentre.obj
+  artifactKey: Guid(71d71b0e645b8794eb00f9e5c9264fe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ADI/Voxel Office Props/Models/tableCentre.obj using Guid(71d71b0e645b8794eb00f9e5c9264fe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8615acb1b8e2fdf7cb360b21540a1f09') in 0.008733 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.811386 seconds.
+  path: Assets/ADI/Voxel Office Props/Materials/emmisionLayer.png
+  artifactKey: Guid(14f1ebd14e552754e81784d7991ef473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ADI/Voxel Office Props/Materials/emmisionLayer.png using Guid(14f1ebd14e552754e81784d7991ef473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab57cfd5a240439b7c203c372e8b2e0c') in 0.462882 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001588 seconds.
+  path: Assets/ADI/Voxel Office Props/Materials/glass.mat
+  artifactKey: Guid(757ca598e3c89ac479db1a7c24999c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ADI/Voxel Office Props/Materials/glass.mat using Guid(757ca598e3c89ac479db1a7c24999c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36f8412c99047e7adaf116189e8f723f') in 0.007936 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/ADI/Voxel Office Props/Materials/modelTexture.png
+  artifactKey: Guid(23ecce56286a894419eebd05b822b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ADI/Voxel Office Props/Materials/modelTexture.png using Guid(23ecce56286a894419eebd05b822b510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d75807caff752b8f73bc7a232ffa9c9') in 0.003601 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 105.899697 seconds.
+  path: Assets/New Folder
+  artifactKey: Guid(83784953f116949c08a07ce4dd4e9748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder using Guid(83784953f116949c08a07ce4dd4e9748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22ff3b24b578bf0fd50d6b5737bcc569') in 0.001084 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.262655 seconds.
+  path: Assets/Trash
+  artifactKey: Guid(83784953f116949c08a07ce4dd4e9748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Trash using Guid(83784953f116949c08a07ce4dd4e9748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26e017984347e1e5499a10adaa451100') in 0.000813 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.541964 seconds.
+  path: Assets/venue_a4a1b3481b03a009f44490f17e
+  artifactKey: Guid(f8f9dc88831174c8191125aca6f2216f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/venue_a4a1b3481b03a009f44490f17e using Guid(f8f9dc88831174c8191125aca6f2216f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47e1a2503a0614229ddb206775a8bb65') in 0.000953 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 214.546219 seconds.
+  path: Assets/ClusterTutorial/Prefabs/1-1/Chair.prefab
+  artifactKey: Guid(82f62fb27aea24a46b0b6b2977cf2d31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/1-1/Chair.prefab using Guid(82f62fb27aea24a46b0b6b2977cf2d31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1ea7cc83208453d5aef70f0319406f6') in 0.026454 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/ClusterTutorial/Prefabs/1-1/Kabe-2.4_Door-4.prefab
+  artifactKey: Guid(f8c6b5de4784aa54a9b883f42cebc48a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/1-1/Kabe-2.4_Door-4.prefab using Guid(f8c6b5de4784aa54a9b883f42cebc48a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef29fed086ca8141b4ae5057f93ecf25') in 0.012425 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/ClusterTutorial/Prefabs/1-1/Kabe-2.4_Mado-3.prefab
+  artifactKey: Guid(f61cbb8dabf6a364c8ef98014c9384ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/1-1/Kabe-2.4_Mado-3.prefab using Guid(f61cbb8dabf6a364c8ef98014c9384ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a776f5e1a6a665f7cbc59f63dcb305c') in 0.009672 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/ClusterTutorial/Prefabs/1-1/HoneyComb-8.prefab
+  artifactKey: Guid(d85f60ed8acf32e47acd9e68ba16d693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/1-1/HoneyComb-8.prefab using Guid(d85f60ed8acf32e47acd9e68ba16d693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14c91efc1db5a4430dae673216b69e60') in 0.007622 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/ClusterTutorial/Prefabs/1-1/Kabe-2.4_Door-1.prefab
+  artifactKey: Guid(a86a77a7c37b59e4bb28fa9f69721192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/1-1/Kabe-2.4_Door-1.prefab using Guid(a86a77a7c37b59e4bb28fa9f69721192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a800d4fb05cec9c0f5e7589b1e0f6f6') in 0.006890 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/ClusterTutorial/Prefabs/1-1/FreeBox.prefab
+  artifactKey: Guid(d8dd971b119228146a002a614003811e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/1-1/FreeBox.prefab using Guid(d8dd971b119228146a002a614003811e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f10f5d47dfbe00f026b839295e334cfc') in 0.007415 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/ClusterTutorial/Prefabs/1-1/Kabe-2.4_Door-3.prefab
+  artifactKey: Guid(f8d3615778399c34e8c208277eab8d88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/1-1/Kabe-2.4_Door-3.prefab using Guid(f8d3615778399c34e8c208277eab8d88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2c46630852f612929e887f3d1303e3d') in 0.005672 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/ClusterTutorial/Prefabs/1-1/Door-3.prefab
+  artifactKey: Guid(88062d85debded843907a907ac6b6bba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/1-1/Door-3.prefab using Guid(88062d85debded843907a907ac6b6bba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c18bee6035e65155b0321da69dcf06e5') in 0.006249 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/ClusterTutorial/Prefabs/1-1/FreeBox-6.prefab
+  artifactKey: Guid(ad86e5fd336c4674c924bba4860ea372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/1-1/FreeBox-6.prefab using Guid(ad86e5fd336c4674c924bba4860ea372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c895fe263704625fa443a93e70fdc408') in 0.007549 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/ClusterTutorial/Prefabs/1-1/HoneyComb.prefab
+  artifactKey: Guid(b65be2593d168804aa434363b8105023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/1-1/HoneyComb.prefab using Guid(b65be2593d168804aa434363b8105023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc5979d41fd432f41f66e197976b24f3') in 0.007661 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/ClusterTutorial/Prefabs/1-1/Kabe-2.4-3.prefab
+  artifactKey: Guid(952571eddad2a6145bcc43fb2f379b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/1-1/Kabe-2.4-3.prefab using Guid(952571eddad2a6145bcc43fb2f379b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30d0758a29b20176c20c8360aa9eb669') in 0.005689 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 153.106371 seconds.
+  path: Assets/Used_assets/modelLitBlue.mat
+  artifactKey: Guid(16f5361cfe0f78545a1406a69f6b58dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Used_assets/modelLitBlue.mat using Guid(16f5361cfe0f78545a1406a69f6b58dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86e0fdb69c5a552863e2585854cfeaa2') in 0.014041 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 111.546312 seconds.
+  path: Assets/ClusterTutorial/Prefabs/1-1/Kabe-2.4_NoDoor-2.prefab
+  artifactKey: Guid(b2447e077b761a141b35c3d8366787a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/1-1/Kabe-2.4_NoDoor-2.prefab using Guid(b2447e077b761a141b35c3d8366787a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3078a191fe98d219d045e265813c8a0') in 0.015472 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/ClusterTutorial/Prefabs/1-1/Kabe-2.4_NoDoor-4.prefab
+  artifactKey: Guid(aebb8028b13531c45bdf86a4af3aeedc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/1-1/Kabe-2.4_NoDoor-4.prefab using Guid(aebb8028b13531c45bdf86a4af3aeedc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a96c73e2106038e66e39882f03803558') in 0.006374 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.343920 seconds.
+  path: Assets/ClusterTutorial/Prefabs/1-1/PhotoFrame.prefab
+  artifactKey: Guid(60e38b6ee6d46854ca1a39f8fc3fa75c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/1-1/PhotoFrame.prefab using Guid(60e38b6ee6d46854ca1a39f8fc3fa75c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ce5bc2204d65e1d6b6b20a2ece58933') in 0.094703 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012826 seconds.
+  path: Assets/ClusterTutorial/Prefabs/1-1/Window_Glass.prefab
+  artifactKey: Guid(96b46c464610dd84096014fbef2a708f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/1-1/Window_Glass.prefab using Guid(96b46c464610dd84096014fbef2a708f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fce3da07fff08f78691e9dc12b09fdf2') in 0.007174 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/ClusterTutorial/Prefabs/1-1/Yuka-2.4.prefab
+  artifactKey: Guid(e372ed56ab4e6574e840b9db8abb4def) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/1-1/Yuka-2.4.prefab using Guid(e372ed56ab4e6574e840b9db8abb4def) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e2b3029425fbbce50e429e3de6c4e34') in 0.005553 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.317339 seconds.
+  path: Assets/ClusterTutorial/Textures/1-1/WoodFloor040_1K_Albedo.jpg
+  artifactKey: Guid(70239abfdc5a56f42abdffe775e7eb01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Textures/1-1/WoodFloor040_1K_Albedo.jpg using Guid(70239abfdc5a56f42abdffe775e7eb01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a10799842d4653e4412201083756827') in 0.501038 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 51.253771 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/Door-2.prefab
+  artifactKey: Guid(36f3e70ad53810a4c873c3659b629bc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/Door-2.prefab using Guid(36f3e70ad53810a4c873c3659b629bc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5fc85795f8b91d4927c282f8dbef818') in 0.009565 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4_Door-4.prefab
+  artifactKey: Guid(28af13bde00819548a819d6213673c6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4_Door-4.prefab using Guid(28af13bde00819548a819d6213673c6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3472b3c602b84b02b35b5f2fabf0bd16') in 0.007470 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4_NoDoor-1.prefab
+  artifactKey: Guid(38475efd3ccffba4eb103bc55a5ad82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4_NoDoor-1.prefab using Guid(38475efd3ccffba4eb103bc55a5ad82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b4195ec72ca5de1b9815799fcc1ebdf') in 0.005174 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4_NoDoor-3.prefab
+  artifactKey: Guid(ca72e6151a257ca4e9eb7582faaa9bdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4_NoDoor-3.prefab using Guid(ca72e6151a257ca4e9eb7582faaa9bdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd53f0417152b2961f5466cab394a848') in 0.004692 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4_Mado-4.prefab
+  artifactKey: Guid(2c55a313b3e78844e9ba7ec4957cf174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4_Mado-4.prefab using Guid(2c55a313b3e78844e9ba7ec4957cf174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8a65a2ef1e27367fa096166d361e4db') in 0.007195 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000651 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4_Door-2.prefab
+  artifactKey: Guid(808a54fdefdba724cbe27fc98dac211c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4_Door-2.prefab using Guid(808a54fdefdba724cbe27fc98dac211c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebb900c607c564aab2ad9c65c4962fda') in 0.007518 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4-3.prefab
+  artifactKey: Guid(f8d617cf589481c468700e8d20249486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4-3.prefab using Guid(f8d617cf589481c468700e8d20249486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e723da9fe8bd248fce1010575e3b36ac') in 0.005572 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4_Mado-2.prefab
+  artifactKey: Guid(89af2f980b556444ebf75e46ae98ac02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4_Mado-2.prefab using Guid(89af2f980b556444ebf75e46ae98ac02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d87727845c99b51cd55d59ff4ef5c0a') in 0.007894 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4_NoDoor-2.prefab
+  artifactKey: Guid(ebc05506389a0b4429d3c41208ec7165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4_NoDoor-2.prefab using Guid(ebc05506389a0b4429d3c41208ec7165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dc907ce33c9a539d14a326750563ffb') in 0.005392 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/Floorong-2.prefab
+  artifactKey: Guid(788de6e2ec70a804bba6a7345bce6dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/Floorong-2.prefab using Guid(788de6e2ec70a804bba6a7345bce6dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e58a93ea0720a351b9c4637bfeff3f7') in 0.006171 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/FreeBox.prefab
+  artifactKey: Guid(c03b451e9d3091447bcc74d857fb41fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/FreeBox.prefab using Guid(c03b451e9d3091447bcc74d857fb41fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c1ab47f7e826595c27718911f1c3653') in 0.005359 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/FreeBox-6.prefab
+  artifactKey: Guid(d99447c6f21e6ab40a666cae49fc79e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/FreeBox-6.prefab using Guid(d99447c6f21e6ab40a666cae49fc79e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae5136a63e80c5b538fd35d57e1917ff') in 0.005330 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4_Mado-1.prefab
+  artifactKey: Guid(1bc4ab679556b0a4993af5a3f4edc464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4_Mado-1.prefab using Guid(1bc4ab679556b0a4993af5a3f4edc464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7dbea852b95bd750fd653fe93c57152') in 0.007722 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.922985 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/Book.prefab
+  artifactKey: Guid(6090a9039c150904d892a8e126a04f1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/Book.prefab using Guid(6090a9039c150904d892a8e126a04f1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43eabcf8f979c262474958607616229c') in 0.005869 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/Door-1.prefab
+  artifactKey: Guid(06612c19e470fda47b0118fcfa5df942) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/Door-1.prefab using Guid(06612c19e470fda47b0118fcfa5df942) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc91c73037da46abd206e3fec80ca5e8') in 0.004989 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/DiningTable.prefab
+  artifactKey: Guid(94adabf9a7d52aa4b877281d6069f91e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/DiningTable.prefab using Guid(94adabf9a7d52aa4b877281d6069f91e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01454266f311cdcb1ed927eecb999852') in 0.005317 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 28.983798 seconds.
+  path: Assets/ClusterTutorial/Prefabs/1-1/BookStock.prefab
+  artifactKey: Guid(b6a737f75d664b04a8b18e5f20c0f81f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/1-1/BookStock.prefab using Guid(b6a737f75d664b04a8b18e5f20c0f81f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5c9a030d5af2514578e18de2f72d883') in 0.007479 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/ClusterTutorial/Prefabs/1-1/Door-2.prefab
+  artifactKey: Guid(0b82d8ba3a19b384b993f2413b2852de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/1-1/Door-2.prefab using Guid(0b82d8ba3a19b384b993f2413b2852de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3006d5a0451b0179d0c681b9615fab53') in 0.005552 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.207374 seconds.
+  path: Assets/ClusterTutorial/Prefabs/1-1/Kabe-2.4_Mado-1.prefab
+  artifactKey: Guid(fbaa77c4924ede4468ca1915ae902b88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/1-1/Kabe-2.4_Mado-1.prefab using Guid(fbaa77c4924ede4468ca1915ae902b88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d8ee3e4bf3979e9fc4cb6732ff94712') in 0.009798 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 122.756561 seconds.
+  path: Assets/ClusterTutorial/Prefabs/1-1/PhotoFrame.prefab
+  artifactKey: Guid(60e38b6ee6d46854ca1a39f8fc3fa75c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/1-1/PhotoFrame.prefab using Guid(60e38b6ee6d46854ca1a39f8fc3fa75c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fcc1b05d0bbd0b26c9faa685bdbb82b') in 0.036000 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/ClusterTutorial/Prefabs/1-1/Window_NoGlass.prefab
+  artifactKey: Guid(79e54f3eda827ad48bc51fe6a583b91a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/1-1/Window_NoGlass.prefab using Guid(79e54f3eda827ad48bc51fe6a583b91a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fac03bacf3b8405a6a5b70c2a897b426') in 0.005679 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.549956 seconds.
+  path: Assets/ClusterTutorial/Textures/A4.png
+  artifactKey: Guid(9ee93039b92ea5649b0c467a72bd14c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Textures/A4.png using Guid(9ee93039b92ea5649b0c467a72bd14c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e70a9336dbf83d2c96864ff3bb108a98') in 0.096475 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.150587 seconds.
+  path: Assets/ClusterTutorial/Textures/1-1/Concrete034_1K_NormalDX.jpg
+  artifactKey: Guid(358413116a860074eb3708a6250106a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Textures/1-1/Concrete034_1K_NormalDX.jpg using Guid(358413116a860074eb3708a6250106a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad43238bd43a5421c5490e6b5f887e91') in 0.007032 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 147.109930 seconds.
+  path: Assets/ClusterTutorial/Materials/Brown 1.mat
+  artifactKey: Guid(7692fe1c152934eb6a8efa6d84a15a40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Materials/Brown 1.mat using Guid(7692fe1c152934eb6a8efa6d84a15a40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63ea16ff699d499100dc0d30bf2fd213') in 0.015336 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000758 seconds.
+  path: Assets/ClusterTutorial/Materials/Kabe_Ao.mat
+  artifactKey: Guid(17a2721c0ea5b4c568b36d3652f155c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Materials/Kabe_Ao.mat using Guid(17a2721c0ea5b4c568b36d3652f155c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c7c8fffdee4e62490877cef05ba1a22') in 0.006373 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001877 seconds.
+  path: Assets/ClusterTutorial/Materials/Offwhite.mat
+  artifactKey: Guid(13f43e6672fcd4945953c73936d1492a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Materials/Offwhite.mat using Guid(13f43e6672fcd4945953c73936d1492a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b5e9cf970bcaf5da29e92aa616c82bf') in 0.005485 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/ClusterTutorial/Materials/Kabe.mat
+  artifactKey: Guid(28dcf0a1bb3f94064914870bbcd0e2b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Materials/Kabe.mat using Guid(28dcf0a1bb3f94064914870bbcd0e2b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23e50a43794f6dd0e915c2f44897e8a2') in 0.004637 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.291721 seconds.
+  path: Assets/ClusterTutorial/Prefabs/1-1/Kabe-2.4-1.prefab
+  artifactKey: Guid(3b75dc149bd4bfa41acefce394ea8f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/1-1/Kabe-2.4-1.prefab using Guid(3b75dc149bd4bfa41acefce394ea8f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3574f0276beca37fb26e4a8b6fa85c08') in 0.008205 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/ClusterTutorial/Prefabs/1-1/Kabe-2.4_Door-4.prefab
+  artifactKey: Guid(f8c6b5de4784aa54a9b883f42cebc48a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/1-1/Kabe-2.4_Door-4.prefab using Guid(f8c6b5de4784aa54a9b883f42cebc48a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62f8bd415fe2fc5f5abef0dc74aae344') in 0.007013 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001365 seconds.
+  path: Assets/ClusterTutorial/Prefabs/1-1/Window_Glass.prefab
+  artifactKey: Guid(96b46c464610dd84096014fbef2a708f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/1-1/Window_Glass.prefab using Guid(96b46c464610dd84096014fbef2a708f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c4e2e11b3067253985b4487274660a1') in 0.002178 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/ClusterTutorial/Prefabs/1-1/Kabe-2.4_Door-3.prefab
+  artifactKey: Guid(f8d3615778399c34e8c208277eab8d88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/1-1/Kabe-2.4_Door-3.prefab using Guid(f8d3615778399c34e8c208277eab8d88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8cfcdcb67f12440d226a855b340d2e7') in 0.005242 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/ClusterTutorial/Prefabs/1-1/Kabe-2.4-4.prefab
+  artifactKey: Guid(c93a32c166dc11445bcdfd28e9ff5798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/1-1/Kabe-2.4-4.prefab using Guid(c93a32c166dc11445bcdfd28e9ff5798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f17541414a0fa584e99370f34aee3f0d') in 0.007266 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 121.431608 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/Book.prefab
+  artifactKey: Guid(6090a9039c150904d892a8e126a04f1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/Book.prefab using Guid(6090a9039c150904d892a8e126a04f1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a8b00a7f4e9d30b822f3cd4e267261d') in 0.010522 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.002739 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4_Door-3.prefab
+  artifactKey: Guid(76bf18fa3a621db4fba89493c6caec16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4_Door-3.prefab using Guid(76bf18fa3a621db4fba89493c6caec16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25a1ad24884f02eac19570319923cc93') in 0.015058 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/Stool.prefab
+  artifactKey: Guid(a7ca7b7ffc4711843827712cea692d02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/Stool.prefab using Guid(a7ca7b7ffc4711843827712cea692d02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '842e144f9cc3ad3fcfeebf2ab1b15998') in 0.008811 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/Yuka-2.4.prefab
+  artifactKey: Guid(b007c1bf0c59135479c6801c14e87bbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/Yuka-2.4.prefab using Guid(b007c1bf0c59135479c6801c14e87bbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbfa30a536afd034dd4a3733f0d9075e') in 0.007643 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4-4.prefab
+  artifactKey: Guid(de17ef1792b227649bec15adcd8b9617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4-4.prefab using Guid(de17ef1792b227649bec15adcd8b9617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ca1602556f84681a34d580477f2a484') in 0.007844 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4_Door-2.prefab
+  artifactKey: Guid(808a54fdefdba724cbe27fc98dac211c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4_Door-2.prefab using Guid(808a54fdefdba724cbe27fc98dac211c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37576234120ac9e4a0416f0cca80e395') in 0.006175 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/Chair.prefab
+  artifactKey: Guid(58077cacc3ae4f448b4674e3abd9d27b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/Chair.prefab using Guid(58077cacc3ae4f448b4674e3abd9d27b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2031fb6d5fceaeb7ced8d5a0f7f0735a') in 0.001945 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4_Mado-3.prefab
+  artifactKey: Guid(9cc814f92a2953245bb6e23858fc4228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4_Mado-3.prefab using Guid(9cc814f92a2953245bb6e23858fc4228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7835f8a7082bb31218c670c32b86db67') in 0.002066 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4-3.prefab
+  artifactKey: Guid(f8d617cf589481c468700e8d20249486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4-3.prefab using Guid(f8d617cf589481c468700e8d20249486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b24a80e3ddb3e8009115605fbbca6a2') in 0.004546 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/Window_Glass.prefab
+  artifactKey: Guid(22868e24f5bfddf4f91c6f7092c379c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/Window_Glass.prefab using Guid(22868e24f5bfddf4f91c6f7092c379c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f995b3603cabf40f6b361a9590b44124') in 0.002125 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4_Mado-2.prefab
+  artifactKey: Guid(89af2f980b556444ebf75e46ae98ac02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4_Mado-2.prefab using Guid(89af2f980b556444ebf75e46ae98ac02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6747e92f711e134836fe89dd3be552d') in 0.001950 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/DiningTable.prefab
+  artifactKey: Guid(94adabf9a7d52aa4b877281d6069f91e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/DiningTable.prefab using Guid(94adabf9a7d52aa4b877281d6069f91e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0439fa3702dd42faae1f419976f61b26') in 0.003165 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4-1.prefab
+  artifactKey: Guid(7a4166ebff7b0d3478656f5fda799906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4-1.prefab using Guid(7a4166ebff7b0d3478656f5fda799906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d7d2bee2700c21c92ff40d5511df88b') in 0.005584 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4_Door-1.prefab
+  artifactKey: Guid(d64eeb74c4061cf4abc99416851d5a7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4_Door-1.prefab using Guid(d64eeb74c4061cf4abc99416851d5a7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b49704470324692c5c74eafbae91aef2') in 0.006463 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 28.883642 seconds.
+  path: Assets/ClusterTutorial/Prefabs/1-1/Kabe-2.4_Door-1.prefab
+  artifactKey: Guid(a86a77a7c37b59e4bb28fa9f69721192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/1-1/Kabe-2.4_Door-1.prefab using Guid(a86a77a7c37b59e4bb28fa9f69721192) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3f86ba2de827fa6b4d4380faee0b30f') in 0.002523 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/ClusterTutorial/Prefabs/1-1/Kabe-2.4_Door-4.prefab
+  artifactKey: Guid(f8c6b5de4784aa54a9b883f42cebc48a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/1-1/Kabe-2.4_Door-4.prefab using Guid(f8c6b5de4784aa54a9b883f42cebc48a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c65c52deefe6e789213143e17ca893d8') in 0.001803 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 48.699483 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/Door-3.prefab
+  artifactKey: Guid(5093900a0cc60584bbb4e5abccf06e23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/Door-3.prefab using Guid(5093900a0cc60584bbb4e5abccf06e23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '589c36754e4a48a16849a2a9d5a88bab') in 0.004011 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4_Door-4.prefab
+  artifactKey: Guid(28af13bde00819548a819d6213673c6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4_Door-4.prefab using Guid(28af13bde00819548a819d6213673c6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '837c228a9b89c665e56a0ec53cd6b51b') in 0.002488 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/Yuka-1.2.prefab
+  artifactKey: Guid(930d5b48724fa5647891a8ba706ce0dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/Yuka-1.2.prefab using Guid(930d5b48724fa5647891a8ba706ce0dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff958b53caf931a4b609722ba52d85c8') in 0.002012 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001571 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/HoneyComb-8.prefab
+  artifactKey: Guid(e8f32ceb6703c3b47be3b203a3955ff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/HoneyComb-8.prefab using Guid(e8f32ceb6703c3b47be3b203a3955ff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daefb8509d85b929f9b94547031473d9') in 0.001936 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4_Door-2.prefab
+  artifactKey: Guid(808a54fdefdba724cbe27fc98dac211c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4_Door-2.prefab using Guid(808a54fdefdba724cbe27fc98dac211c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6ee09776f9f0f935b8700a70ab0fe81') in 0.001755 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/HoneyComb.prefab
+  artifactKey: Guid(00eed856d1f71e047a9724e14d341d53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/HoneyComb.prefab using Guid(00eed856d1f71e047a9724e14d341d53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c577baebf070dfc07f8121b822ffc8e7') in 0.003547 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003105 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/FreeBox-6.prefab
+  artifactKey: Guid(d99447c6f21e6ab40a666cae49fc79e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/FreeBox-6.prefab using Guid(d99447c6f21e6ab40a666cae49fc79e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '443aa818158974740a5ae5577cf81e30') in 0.001929 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4_Door-1.prefab
+  artifactKey: Guid(d64eeb74c4061cf4abc99416851d5a7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/Prefabs/2-1/Kabe-2.4_Door-1.prefab using Guid(d64eeb74c4061cf4abc99416851d5a7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7f1c1d181d6dea216e012ca8f391d79') in 0.002173 seconds 
