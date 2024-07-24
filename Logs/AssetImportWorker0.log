@@ -459,3 +459,159 @@ Received Import Request.
   path: Assets/school/Prefabs/road/floor.prefab
   artifactKey: Guid(405988af1bd38ee4fb92e86058b6c926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/school/Prefabs/road/floor.prefab using Guid(405988af1bd38ee4fb92e86058b6c926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '238b9385f41eb23ae0c84dfe1fc50eda') in 0.005832 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 244.827254 seconds.
+  path: Assets/school/DemoScene/all_objects1_Profiles
+  artifactKey: Guid(b0062bcf3e6601642b30a501d664127d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/school/DemoScene/all_objects1_Profiles using Guid(b0062bcf3e6601642b30a501d664127d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a3251b0f7b7d85cc924d367b1b65b4e') in 0.002809 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 179.001584 seconds.
+  path: Assets/Stylized Wood Textures/Textures/Herringbone/Wood_Herringbone_ambientocclusion.png
+  artifactKey: Guid(15af74a8c7f695440b3c413547a7fac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Wood Textures/Textures/Herringbone/Wood_Herringbone_ambientocclusion.png using Guid(15af74a8c7f695440b3c413547a7fac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c88305548c1b87e99b0c37dc93a81334') in 0.025379 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Stylized Wood Textures/Textures/Herringbone/Wood_Herringbone_metallic.png
+  artifactKey: Guid(0bc8ebed75a684c4ab2e9bdf336fb3e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Wood Textures/Textures/Herringbone/Wood_Herringbone_metallic.png using Guid(0bc8ebed75a684c4ab2e9bdf336fb3e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5ec5dfef7719caa0e77fae983cae03a') in 0.008519 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Stylized Wood Textures/Textures/Herringbone/Wood_Herringbone_normal.png
+  artifactKey: Guid(4911c6fe3949b1e48a31009db1beb0da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Wood Textures/Textures/Herringbone/Wood_Herringbone_normal.png using Guid(4911c6fe3949b1e48a31009db1beb0da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be9f40069118811582099c660cf0f7c3') in 0.006133 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 29.918210 seconds.
+  path: Assets/ClusterTutorial/BeginnerSample.unity
+  artifactKey: Guid(c16eb07edaab5594685ef07775a44c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ClusterTutorial/BeginnerSample.unity using Guid(c16eb07edaab5594685ef07775a44c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76b68cbdb4130e94c00dffa5377651ac') in 0.001172 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 36.095036 seconds.
+  path: Assets/WorldGateSample/Materials
+  artifactKey: Guid(56c55622bf40046029150b14b6ec0a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldGateSample/Materials using Guid(56c55622bf40046029150b14b6ec0a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6fce78b6c099d20d4a8871e5530fdef') in 0.000611 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.189171 seconds.
+  path: Assets/WorldGateSample/Materials/collider.mat
+  artifactKey: Guid(ae76523df76f8a34bad44f60b1628183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldGateSample/Materials/collider.mat using Guid(ae76523df76f8a34bad44f60b1628183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb36586dd4a9d1005b0eede06eb1cd2f') in 0.027268 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.914194 seconds.
+  path: Assets/WorldGateSample/Textures/cylinder.png
+  artifactKey: Guid(2c0f0f4a0b2b45f45a994a210c260f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldGateSample/Textures/cylinder.png using Guid(2c0f0f4a0b2b45f45a994a210c260f37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ddb7fefe11f67c7da993ad2cb57d9cd') in 0.006522 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000622 seconds.
+  path: Assets/WorldGateSample/Textures/WorldGate.png
+  artifactKey: Guid(7391d8978dbece546aef03f8fc3e7e12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldGateSample/Textures/WorldGate.png using Guid(7391d8978dbece546aef03f8fc3e7e12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cde4908dff458400859f33983460bdf') in 0.070494 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.830378 seconds.
+  path: Assets/Stylized Wood Textures/Textures/Triangle/Wood_Triangle_ambientocclusion.png
+  artifactKey: Guid(7817cf35fe435504b89e659ead31711f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Wood Textures/Textures/Triangle/Wood_Triangle_ambientocclusion.png using Guid(7817cf35fe435504b89e659ead31711f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e78928dd19fe66ec3ff5081b7f2c28bc') in 0.007614 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Stylized Wood Textures/Textures/Triangle/Wood_Triangle_normal.png
+  artifactKey: Guid(91a69e9cef94a8041931a28ad5867a1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Wood Textures/Textures/Triangle/Wood_Triangle_normal.png using Guid(91a69e9cef94a8041931a28ad5867a1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea04b43972f4ad2b22afcf653e09be9d') in 0.007351 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Stylized Wood Textures/Textures/Triangle/Wood_Triangle_height.png
+  artifactKey: Guid(cff2f85e0a34f84418366fd235a87a80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Wood Textures/Textures/Triangle/Wood_Triangle_height.png using Guid(cff2f85e0a34f84418366fd235a87a80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e98531fc76351592eff9aae7bac47e3') in 0.008040 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.780508 seconds.
+  path: Assets/Stylized Wood Textures/Textures/Square/Wood_Square_ambientocclusion.png
+  artifactKey: Guid(e1e643f0d6c45aa468e85ba5c885d7ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Wood Textures/Textures/Square/Wood_Square_ambientocclusion.png using Guid(e1e643f0d6c45aa468e85ba5c885d7ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4ad6be0bf32a61ce733e4869d79c530') in 0.006600 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Stylized Wood Textures/Textures/Square/Wood_Square_normal.png
+  artifactKey: Guid(f34c12c780596734b9cbab8fca414acc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Wood Textures/Textures/Square/Wood_Square_normal.png using Guid(f34c12c780596734b9cbab8fca414acc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18b803d8ed947ffb7c7009d8dfcd4f95') in 0.006970 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Stylized Wood Textures/Textures/Square/Wood_Square_metallic.png
+  artifactKey: Guid(afb727857a3537445b102d9e816bd11d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Wood Textures/Textures/Square/Wood_Square_metallic.png using Guid(afb727857a3537445b102d9e816bd11d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bdc9842b1de200569d721c61b62e5e0') in 0.005763 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.778560 seconds.
+  path: Assets/Stylized Wood Textures/Materials/Square/Square.mat
+  artifactKey: Guid(4ddb30289dc6d6a47a05448ca7275e5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Wood Textures/Materials/Square/Square.mat using Guid(4ddb30289dc6d6a47a05448ca7275e5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbb0863c555c15c9a20d3328c39ab6c2') in 0.010704 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.978864 seconds.
+  path: Assets/Stylized Wood Textures/Materials/Triangle/Triangle.mat
+  artifactKey: Guid(5e85b5e82c1a1a84186c3baf89e174c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Wood Textures/Materials/Triangle/Triangle.mat using Guid(5e85b5e82c1a1a84186c3baf89e174c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9c8b5529a4bd95a8f85b94baff04c9b') in 0.005317 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.151315 seconds.
+  path: Assets/Stylized Wood Textures/Textures/Planks/Wood_Planks_ambientocclusion.png
+  artifactKey: Guid(85a567c972364f747b395624dd04d027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Wood Textures/Textures/Planks/Wood_Planks_ambientocclusion.png using Guid(85a567c972364f747b395624dd04d027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aeb423a3612a732bffa0c21f3599cab5') in 0.009700 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Stylized Wood Textures/Textures/Planks/Wood_Planks_metallic.png
+  artifactKey: Guid(7fed49ec704c7ae489e477e9e6dde3aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Wood Textures/Textures/Planks/Wood_Planks_metallic.png using Guid(7fed49ec704c7ae489e477e9e6dde3aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fb68c4ba1a6b67dd3f9049a80d46900') in 0.007103 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Stylized Wood Textures/Textures/Planks/Wood_Planks_normal.png
+  artifactKey: Guid(741c8af1a7ae1f34dae1e370d8b60933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Wood Textures/Textures/Planks/Wood_Planks_normal.png using Guid(741c8af1a7ae1f34dae1e370d8b60933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c421fe9ac5c8697d14d6d7043c9d69a0') in 0.006722 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.934249 seconds.
+  path: Assets/WorldGateSample/Meshes/cylinder.fbx
+  artifactKey: Guid(816f81b6af783ae4a99218d998c87761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldGateSample/Meshes/cylinder.fbx using Guid(816f81b6af783ae4a99218d998c87761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d335aca309aec017e69d354a1e2cb89') in 0.087103 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.947011 seconds.
+  path: Packages/com.unity.ext.nunit/package.json
+  artifactKey: Guid(8143d3a8390f2c64685e3bc272bd9e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ext.nunit/package.json using Guid(8143d3a8390f2c64685e3bc272bd9e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b40fc5629c4141466786b845dfe4fc31') in 0.195074 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.514396 seconds.
+  path: Packages/com.unity.ide.visualstudio/package.json
+  artifactKey: Guid(656f74f6edaa396458412b9e3903d8cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.visualstudio/package.json using Guid(656f74f6edaa396458412b9e3903d8cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb4c6da8bdd016a5626124d1fa9de549') in 0.001248 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.715316 seconds.
+  path: Packages/com.unity.ide.vscode/package.json
+  artifactKey: Guid(ffc6271f08270b64ca0aae9c49235d81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.vscode/package.json using Guid(ffc6271f08270b64ca0aae9c49235d81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9797d3eb575af519a91cff9ea5b73f84') in 0.001457 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.568007 seconds.
+  path: Packages/com.unity.visualscripting/package.json
+  artifactKey: Guid(545a9d2bc7370224f8d14c22f2f580e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualscripting/package.json using Guid(545a9d2bc7370224f8d14c22f2f580e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6444b2463e5a6be242c89e647dd68143') in 0.001475 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.289420 seconds.
+  path: Packages/com.unity.collab-proxy/package.json
+  artifactKey: Guid(743fda8c4b219c8429fb5a77ede1c879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.collab-proxy/package.json using Guid(743fda8c4b219c8429fb5a77ede1c879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7df784f18d376e93537921a170b6609d') in 0.001349 seconds 

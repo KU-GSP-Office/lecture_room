@@ -381,3 +381,69 @@ Received Import Request.
   path: Assets/school/Prefabs/road/doroga.prefab
   artifactKey: Guid(5b97ca6353ad429419598d36d1a55e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/school/Prefabs/road/doroga.prefab using Guid(5b97ca6353ad429419598d36d1a55e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f04394532f1cb9b9e34076fba8dc63c') in 0.012133 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 423.855061 seconds.
+  path: Assets/Stylized Wood Textures/Textures/Herringbone/Wood_Herringbone_basecolor.png
+  artifactKey: Guid(186c2936e047bca4e819220fe891ed91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Wood Textures/Textures/Herringbone/Wood_Herringbone_basecolor.png using Guid(186c2936e047bca4e819220fe891ed91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd69682e682adeab048d4ae6789bfc61') in 0.025694 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Stylized Wood Textures/Textures/Herringbone/Wood_Herringbone_height.png
+  artifactKey: Guid(9a3539e3543e8b64e90c260236fa0bcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Wood Textures/Textures/Herringbone/Wood_Herringbone_height.png using Guid(9a3539e3543e8b64e90c260236fa0bcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a16b0c3469048939acef8641490b3068') in 0.010569 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 67.228953 seconds.
+  path: Assets/WorldGateSample/Materials/gate.mat
+  artifactKey: Guid(5181ed0c86a14f342ba25e99a6a61a7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldGateSample/Materials/gate.mat using Guid(5181ed0c86a14f342ba25e99a6a61a7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72292ba8031a7c75b85c0c33b7adbb25') in 0.103233 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.832282 seconds.
+  path: Assets/WorldGateSample/Textures/texture.png
+  artifactKey: Guid(0138bf8ff2c45424db3c7728993f136f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldGateSample/Textures/texture.png using Guid(0138bf8ff2c45424db3c7728993f136f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e7aeaa698b42b00a2a1eeed20582979') in 0.006432 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.906298 seconds.
+  path: Assets/Stylized Wood Textures/Textures/Triangle/Wood_Triangle_basecolor.png
+  artifactKey: Guid(e3537fc042bbba94ea33ce0d9abe3592) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Wood Textures/Textures/Triangle/Wood_Triangle_basecolor.png using Guid(e3537fc042bbba94ea33ce0d9abe3592) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e00982bbf73f76dad3dfc4c955447787') in 0.007569 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Stylized Wood Textures/Textures/Triangle/Wood_Triangle_metallic.png
+  artifactKey: Guid(6ba61bef9f683ed4580109c5afbf3b55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Wood Textures/Textures/Triangle/Wood_Triangle_metallic.png using Guid(6ba61bef9f683ed4580109c5afbf3b55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f54b0774c3c5a65172b1b98488a635c') in 0.006430 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.791026 seconds.
+  path: Assets/Stylized Wood Textures/Textures/Square/Wood_Square_basecolor.png
+  artifactKey: Guid(dc71b8e9c1c2dfc44a3078207aa60d5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Wood Textures/Textures/Square/Wood_Square_basecolor.png using Guid(dc71b8e9c1c2dfc44a3078207aa60d5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c6c469f58069bf10e513b588e26e6a1') in 0.006554 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Stylized Wood Textures/Textures/Square/Wood_Square_height.png
+  artifactKey: Guid(b6fcad0043a441d4ebd9dc3b582b9741) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Wood Textures/Textures/Square/Wood_Square_height.png using Guid(b6fcad0043a441d4ebd9dc3b582b9741) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd56a51553915dfea83acc025c8462cf3') in 0.006764 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 29.949680 seconds.
+  path: Assets/Stylized Wood Textures/Textures/Planks/Wood_Planks_basecolor.png
+  artifactKey: Guid(1d5b21d07413d8f4f8b54302e0dc545b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Wood Textures/Textures/Planks/Wood_Planks_basecolor.png using Guid(1d5b21d07413d8f4f8b54302e0dc545b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba9ccf5ade28022efa7ba307cec62ffc') in 0.009267 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Stylized Wood Textures/Textures/Planks/Wood_Planks_height.png
+  artifactKey: Guid(3623063cbfe883141939161b36eca79c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Wood Textures/Textures/Planks/Wood_Planks_height.png using Guid(3623063cbfe883141939161b36eca79c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30f931f5649500d96e44b9b1230f80e6') in 0.006453 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.943299 seconds.
+  path: Assets/WorldGateSample/Meshes/worldgate.fbx
+  artifactKey: Guid(503a86fbbbe72c1419d2302a4a748b26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WorldGateSample/Meshes/worldgate.fbx using Guid(503a86fbbbe72c1419d2302a4a748b26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c5e81137099f78d4c92a373c0d00294') in 0.086879 seconds 

@@ -1,0 +1,6 @@
+# gitで管理しないファイル一覧
+
+/[Li]brary/
+/[Ll]ogs/
+/[Tt]emp/
+/[Uu]ser[Ss]ettings/
