@@ -1,2 +1,2 @@
-榎井先生用プログラムで使う教室！
+神戸大学メタバースの講義室
 Assets > ClusterTutorial > BegginerSample.unity

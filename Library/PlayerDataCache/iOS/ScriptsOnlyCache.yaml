@@ -9,6 +9,7 @@ ScriptsOnlyBuild:
     - ClusterVR.CreatorKit.World.Implements.DespawnHeights.DespawnHeight
     - ClusterVR.CreatorKit.World.Implements.MainScreenViews.StandardMainScreenView
     - ClusterVR.CreatorKit.World.Implements.SpawnPoints.SpawnPoint
+    - ClusterVR.CreatorKit.World.Implements.WorldGate.WorldGate
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     UnityEditor.TestRunner.dll:
@@ -55,6 +56,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 6652}
     - Class: 114
       Script: {instanceID: 9056}
+    - Class: 114
+      Script: {instanceID: 9382}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -94,6 +97,12 @@ ScriptsOnlyBuild:
     assemblyName: ClusterVR.CreatorKit.World.Implements.dll
     namespaceName: ClusterVR.CreatorKit.World.Implements.DespawnHeights
     className: DespawnHeight
+  - hash:
+      serializedVersion: 2
+      Hash: 101642ba22369177dcd3d8c745d859b4
+    assemblyName: ClusterVR.CreatorKit.World.Implements.dll
+    namespaceName: ClusterVR.CreatorKit.World.Implements.WorldGate
+    className: WorldGate
   platform: 9
   scenePathNames:
   - Assets/venue_a4a1b3481b03a009f44490f17e.unity
