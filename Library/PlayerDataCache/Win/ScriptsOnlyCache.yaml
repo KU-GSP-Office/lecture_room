@@ -9,6 +9,8 @@ ScriptsOnlyBuild:
     - ClusterVR.CreatorKit.World.Implements.DespawnHeights.DespawnHeight
     - ClusterVR.CreatorKit.World.Implements.MainScreenViews.StandardMainScreenView
     - ClusterVR.CreatorKit.World.Implements.SpawnPoints.SpawnPoint
+    - ClusterVR.CreatorKit.World.Implements.Speaker.Speaker
+    - ClusterVR.CreatorKit.World.Implements.TextView.TextView
     - ClusterVR.CreatorKit.World.Implements.WorldGate.WorldGate
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
@@ -42,29 +44,41 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 65
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
     - Class: 89
+      Script: {instanceID: 0}
+    - Class: 102
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 3004}
+      Script: {instanceID: 3030}
     - Class: 114
-      Script: {instanceID: 4254}
+      Script: {instanceID: 4280}
     - Class: 114
-      Script: {instanceID: 4522}
+      Script: {instanceID: 4548}
     - Class: 114
-      Script: {instanceID: 6652}
+      Script: {instanceID: 4936}
     - Class: 114
-      Script: {instanceID: 9056}
+      Script: {instanceID: 6586}
     - Class: 114
-      Script: {instanceID: 9382}
+      Script: {instanceID: 6678}
+    - Class: 114
+      Script: {instanceID: 9082}
+    - Class: 114
+      Script: {instanceID: 9408}
     - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
       Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
+      Script: {instanceID: 0}
+    - Class: 224
       Script: {instanceID: 0}
     - Class: 850595691
       Script: {instanceID: 0}
@@ -87,6 +101,18 @@ ScriptsOnlyBuild:
     assemblyName: ClusterVR.CreatorKit.World.Implements.dll
     namespaceName: ClusterVR.CreatorKit.World.Implements.MainScreenViews
     className: StandardMainScreenView
+  - hash:
+      serializedVersion: 2
+      Hash: b4c407a3ae4ae3acf7d83fb7a6c42e9b
+    assemblyName: ClusterVR.CreatorKit.World.Implements.dll
+    namespaceName: ClusterVR.CreatorKit.World.Implements.Speaker
+    className: Speaker
+  - hash:
+      serializedVersion: 2
+      Hash: 325cf86e783784afdce10726c378e082
+    assemblyName: ClusterVR.CreatorKit.World.Implements.dll
+    namespaceName: ClusterVR.CreatorKit.World.Implements.TextView
+    className: TextView
   - hash:
       serializedVersion: 2
       Hash: 75dd77d3eaf67a85b31ce41fca5ed55a
